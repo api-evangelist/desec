@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-deSEC is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://desec.io/
+deSEC provides free, secure DNS hosting with a focus on privacy and security. It offers a modern DNS service that includes DNSSEC, API access for automation, and a user-friendly control panel. The service is open-source, supported by System Security Engineering, and aims to give everyone reliable DNS without cost.
+
+**Areas:** DNS · Security · OpenSource · FreeService · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://desec.io/)
+- [Documentation](https://desec.readthedocs.io/en/latest/)
+- [Getting started](https://desec.readthedocs.io/en/latest/quickstart.html)
+- [API reference](https://desec.readthedocs.io/en/latest/endpoint-reference.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/desec/](https://apis.io/providers/desec/).
